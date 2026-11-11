@@ -1,0 +1,23 @@
+{
+  "images": [
+    {
+      "filename": "SealBlueQuill.png",
+      "idiom": "universal",
+      "scale": "1x"
+    },
+    {
+      "filename": "SealBlueQuill.png",
+      "idiom": "universal",
+      "scale": "2x"
+    },
+    {
+      "filename": "SealBlueQuill.png",
+      "idiom": "universal",
+      "scale": "3x"
+    }
+  ],
+  "info": {
+    "author": "xcode",
+    "version": 1
+  }
+}

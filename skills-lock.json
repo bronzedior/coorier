@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "skills": {
+    "swiftui-pro": {
+      "source": "craftwork.design",
+      "sourceUrl": "https://craftwork.design/skills/swiftui-pro",
+      "sourceType": "well-known",
+      "computedHash": "e0370ea1d81b02a7abf92708133b4f03e04d8b1d9e75e708266057a00f9b4f1d",
+      "wellKnownDigest": "sha256:ac2ea910d6e275b953edb43fa503dce9ded82ddf3e5f51fe61e5bdf37acbaa7e"
+    }
+  }
+}

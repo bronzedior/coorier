@@ -1,0 +1,4 @@
+// Copy this file to Coorier/Developer.xcconfig (gitignored) and set YOUR team.
+// Get the ID from Xcode: Settings > Accounts > select your Apple ID > Team row,
+// or from Xcode > Signing & Capabilities once you've picked a team once.
+DEVELOPMENT_TEAM = YOUR_TEAM_ID_HERE
